@@ -1,8 +1,8 @@
 {
 
-"BOT_NAME": "SENU MD",
+"BOT_NAME": "HORIZON MD",
 "VERSION": "3.0.0",
-"CREATED BY": "TECH-HORIZON",
+"CREATED BY": "TECH HORIZON",
   
 "replyMsg": {
   
